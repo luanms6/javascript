@@ -1,2 +1,2 @@
 # javascript
- Curso de javaScript do CursoemVídeo.
+Exercícios e projetos do curso de javaScript do CursoemVídeo.
